@@ -10,11 +10,12 @@
 
 1. list.txt
 
+```
 IMAGE   CLASS-ID    SPECIES BREED-ID
  
  Abyssinian_100     1   1   1
  basset_hound_137   4   2   3
-
+```
 
 2. xmls/*.xml
 
