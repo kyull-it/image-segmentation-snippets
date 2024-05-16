@@ -5,6 +5,9 @@
 * xml annotation을 파싱하여 bounding box를 시각화
 * pixel annotation인 trimap을 이용하여 foreground, background, unknown을 시각화
 
+### Example
+<img src = './sample/2024-05-16_16-05.png'></img>
+
 
 ### 어노테이션 예시
 
